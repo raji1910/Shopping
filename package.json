@@ -4,6 +4,7 @@
   "description": "",
   "main": "evshoppingmoduledb.js",
   "scripts": {
+    "start":"nodemon evshoppingmoduledb.js"
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
